@@ -1,0 +1,23 @@
+:root {
+
+  --main-color: #00eeff;
+  --text-color: #ffffff;
+  --bg-color-01: #1f242d;
+  --bg-color-02: #323946;
+  --colo-00: #0000001a;
+  --colo-01: #999999;
+  --colo-02: #009539;
+  --colo-03: #7950f2;
+  --colo-04: #c00000;
+  --colo-05: #232323;
+}
+
+*{ margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    scroll-behavior: smooth;
+
+}
